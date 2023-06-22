@@ -23,14 +23,21 @@
 }
 .oro{
 		position: absolute;
-	top: 25%;
-	left: 20%;
+	top: 10%;
+	left: 15%;
 	transform: translate(-50%, -50%);
 	color: black;
 }
 .champions{
-		position: absolute;
-	top: 25%;
+	position: absolute;
+	top: 35%;
+	left: 15%;
+	transform: translate(-50%, -50%);
+	color: black;
+}
+.europa{
+	position: absolute;
+	top: 35%;
 	left: 25%;
 	transform: translate(-50%, -50%);
 	color: black;
@@ -38,17 +45,17 @@
 
 
 
-
-
-
-
-
-
-
 .abajo{
 	position: relative;
 	display: inline-block;
 	text-align: center;
+}
+.oroparis{
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: black;
 }
 .lige{
 	position: absolute;
